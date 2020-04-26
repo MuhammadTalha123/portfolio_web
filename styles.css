@@ -1,0 +1,90 @@
+.header {
+  background-color: red;
+  -webkit-box-shadow: -1px 6px 32px 0px rgba(189, 189, 189, 0.74);
+  -moz-box-shadow: -1px 6px 32px 0px rgba(189, 189, 189, 0.74);
+  box-shadow: -1px 6px 32px 0px rgba(189, 189, 189, 0.74);
+  display: flex;
+  flex-direction: row;
+  height: 30em;
+  width: 100%;
+}
+.header_img {
+  background-color: white;
+  background-image: url("./img/profile.png");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  border: 2px solid blanchedalmond;
+  height: 100%;
+  width: 50%;
+}
+
+.header_text {
+  background-color: blanchedalmond;
+  border: 2px solid blanchedalmond;
+  height: 100%;
+  width: 50%;
+}
+
+.header_text h1 {
+  position: absolute;
+  transform: translate(-40%, 10%);
+  font-size: 4em;
+}
+
+.header_text p {
+  transform: translate(10%, 225%);
+  font-size: 20px;
+  margin: 0px 10%;
+}
+
+.generalBtn_header {
+  transform: translate(40%, 15em);
+}
+.generalBtn {
+  color: black;
+  border: 1px solid blanchedalmond;
+  background: blanchedalmond;
+  outline: none;
+  height: 3em;
+  transition: 0.2s all;
+  width: 15em;
+}
+
+.generalBtn:hover {
+  border: 2px solid blanchedalmond;
+  -webkit-box-shadow: -4px 3px 46px 0px rgba(0, 0, 0, 0.36);
+  -moz-box-shadow: -4px 3px 46px 0px rgba(0, 0, 0, 0.36);
+  box-shadow: -4px 3px 46px 0px rgba(0, 0, 0, 0.36);
+  cursor: pointer;
+}
+
+.generalBtn:active {
+  -webkit-box-shadow: -4px 3px 26px 34px rgba(0, 0, 0, 0.36);
+  -moz-box-shadow: -4px 3px 26px 34px rgba(0, 0, 0, 0.36);
+  box-shadow: -4px 3px 26px 34px rgba(0, 0, 0, 0.36);
+}
+
+.projects {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.projects iframe {
+  height: 50em;
+  width: 97vw;
+  /* border: 2px solid #eb1515; */
+  border-radius: 20px;
+  -webkit-box-shadow: -4px 3px 46px 0px rgba(0, 0, 0, 0.36);
+  -moz-box-shadow: -4px 3px 46px 0px rgba(0, 0, 0, 0.36);
+  box-shadow: -4px 3px 46px 0px rgba(0, 0, 0, 0.36);
+  cursor: pointer;
+  margin: 20px;
+}
+
+.projects h1 {
+    font-family: cursive;
+}
+
