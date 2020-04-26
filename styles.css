@@ -32,13 +32,13 @@
 }
 
 .header_text p {
-  transform: translate(10%, 225%);
+  margin: 20%;
   font-size: 20px;
-  margin: 0px 10%;
 }
 
 .generalBtn_header {
-  transform: translate(40%, 15em);
+  margin: -0% 10%;
+  transform: translate(0px, -8em);
 }
 .generalBtn {
   color: black;
@@ -84,7 +84,7 @@
   margin: 20px;
 }
 
-.projects h1 {
-    font-family: cursive;
+body,
+button {
+  font-family: cursive;
 }
-
