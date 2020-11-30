@@ -76,11 +76,6 @@ const projects = [
       path:  "https://muhammadtalha123.github.io/Hangman-Game/"
   },
   {
-      name: "Form-Validator",
-      github: "https://github.com/MuhammadTalha123/Form-Validator",
-      path:  "https://muhammadtalha123.github.io/Form-Validator/"
-  },
-  {
       name: "Expense-Tracker",
       github: "https://github.com/MuhammadTalha123/Expense-Tracker",
       path:  "https://muhammadtalha123.github.io/Expense-Tracker/"
