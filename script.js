@@ -78,7 +78,7 @@ const projects = [
   {
       name: "Form-Validator",
       github: "https://github.com/MuhammadTalha123/Form-Validator",
-      path:  "http://muhammadtalha123.github.io/Form-Validator/"
+      path:  "https://muhammadtalha123.github.io/Form-Validator/"
   },
   {
       name: "Expense-Tracker",
