@@ -95,6 +95,11 @@ const projects = [
       github: "https://github.com/MuhammadTalha123/Custom-Vedio-Player",
       path:  "https://muhammadtalha123.github.io/Custom-Vedio-Player/"
   },
+  {
+     name: "Travel App",
+     github: "https://github.com/MuhammadTalha123/travel-app-with",
+     path:  "https://murmuring-cove-31889.herokuapp.com/"
+  },
   ];
 
 const projectContainer = document.getElementsByClassName("projects")[0];
