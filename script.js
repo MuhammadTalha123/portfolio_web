@@ -96,11 +96,6 @@ const projects = [
       path:  "https://muhammadtalha123.github.io/Custom-Vedio-Player/"
   },
   {
-     name: "Travel App",
-     github: "https://github.com/MuhammadTalha123/travel-app-with",
-     path:  "https://murmuring-cove-31889.herokuapp.com/"
-  },
-  {
      name: "Talha Tech",
      github: "https://github.com/MuhammadTalha123/talha-tech",
      path:  "https://protected-journey-37417.herokuapp.com/"
@@ -109,11 +104,6 @@ const projects = [
      name: "Quiz Game",
      github: "https://github.com/MuhammadTalha123/quiz-app-with-typescript",
      path:  "https://sleepy-caverns-64214.herokuapp.com/"
-  },
-  {
-     name: "Covid 19 Tracker",
-     github: "https://github.com/MuhammadTalha123/covid-19-tracker",
-     path:  "https://arcane-cove-16623.herokuapp.com/"
   },
   ];
 
